@@ -1,7 +1,7 @@
 // MPick project v1.0
 // Developed using Developer Command Prompt for VS2015 and Visual Studio Code.
-// Compile using csc mpick.cs and then run with mpick.exe.
-// Compile on Linux using mono with mcs mpick.cs and run with mono mpick.exe.
+// Compile on Windows with csc mpick.cs and then run with mpick.exe.
+// Compile on Linux with mono with mcs mpick.cs and run with mono mpick.exe.
 //
 // - Martin Sanders.
 
