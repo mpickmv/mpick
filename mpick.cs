@@ -19,7 +19,6 @@ class bootMPick
     }
 }
 
-
 public class MPickMainClass
 {
     public void MPickStartPoint()
